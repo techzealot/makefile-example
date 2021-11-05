@@ -50,6 +50,8 @@ make run
 
 获取branfuck-jit生成的jit代码，并写出对应的makefile目标
 
+参考 https://github.com/brainfusk/brainfuck-c
+
 # clion远程调试运行在docker中的程序
 
 ## 为什么需要
