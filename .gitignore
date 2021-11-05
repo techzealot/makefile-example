@@ -1,1 +1,6 @@
 /.vscode
+*.o
+main
+1.txt
+2.txt
+final.txt
