@@ -36,7 +36,7 @@ c项目实战
 
 make run
 
-资料：跟我一起写Makefile-重制版.pdf
+资料：跟我一起写Makefile-重制版.pdf (文件在工程目录下)
 
 # 自定义docker镜像之Dockerfile编写
 
